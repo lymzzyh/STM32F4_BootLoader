@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+MDK-ARM/STM32F4_BootLoader.uvguix.zyh
+MDK-ARM/STM32F4_BootLoader/
+MDK-ARM/RTE/
+MDK-ARM/DebugConfig/

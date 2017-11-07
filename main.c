@@ -2,7 +2,7 @@
 
 
 
-#define APPLICATION_ADDRESS 0x00
+#define APPLICATION_ADDRESS 0x08004000
 
 typedef void (*pFunction)(void);
 pFunction function;
